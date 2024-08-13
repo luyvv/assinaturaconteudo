@@ -20,8 +20,8 @@ body {
     padding: 0;
 }
 
-.principal {
-    background-image: url("img/Background.png");
+.principal__container{
+    background-image: url("Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -68,7 +68,7 @@ body {
 }
 
 .secundario__imagem {
-    width: 80%;
+    width: 30%;
 }
 
 .secundario {
